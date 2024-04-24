@@ -1,0 +1,16 @@
+1. Les échecs se jouent sur un échiquier de 64 cases, 8x8.
+2. Chaque joueur commence avec 16 pièces : 1 roi, 1 reine, 2 tours, 2 cavaliers, 2 fous et 8 pions.
+3. Le but du jeu est de mettre en échec le roi adverse tout en protégeant son propre roi.
+4. Chaque pièce a ses propres règles de déplacement :
+        - Le roi se déplace d'une case dans n'importe quelle direction.
+        - La reine se déplace horizontalement, verticalement et en diagonale.
+        - La tour se déplace horizontalement et verticalement.
+        - Le cavalier se déplace en L, sautant par-dessus les autres pièces.
+        - Le fou se déplace en diagonale.
+        - Les pions se déplacent vers l'avant d'une case, mais capturent en diagonale.
+5. Le roque est une manœuvre spéciale où le roi et l'une des tours bougent simultanément.
+6. L'en passant est une règle spéciale concernant les pions.
+7. Le jeu se termine lorsque l'un des rois est mis en échec et mat, ou lorsqu'il y a un pat (aucun mouvement légal possible).
+8. Le joueur qui met l'adversaire en échec mat gagne la partie.
+
+Bon jeu !
